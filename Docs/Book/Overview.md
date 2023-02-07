@@ -103,6 +103,8 @@ Simply copy the code from one of the markup languages below and paste it in your
 ## Usage by other open-source projects
 This will, inevitably, be out of date. If you know of others, please let us know or submit a pull request!
 
+- [MolBook UNIPI](https://molbook.farm.unipi.it/) ([doc](https://molbook.farm.unipi.it/documentation/)) - User-friendly software for creating, managing and analyzing chemical databases.
+- [VenomPred](http://www.mmvsl.it/wp/venompred/) ([paper](https://doi.org/10.3390/ijms23042105)) - A Machine Learning Based Platform for Molecular Toxicity Predictions.
 - [Datamol](https://datamol.io/) ([docs](https://doc.datamol.io/stable/), [repo](https://github.com/datamol-org/datamol/)) - A Python library to intuitively manipulate molecules.
 - [DockOnSurf](https://gitlab.com/lch_interfaces/dockonsurf) ([docs](https://dockonsurf.readthedocs.io), [paper](https://www.doi.org/10.26434/chemrxiv.14095699)) - A high-throughput python code to automatically find the most stable geometry for molecules adsorbed on surfaces.
 - [Scopy](https://github.com/kotori-y/Scopy) ([docs](https://scopy.iamkotori.com/), [paper](https://doi.org/10.1093/bib/bbaa194)) - an integrated negative design Python library for desirable HTS/VS database design
