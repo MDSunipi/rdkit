@@ -64,7 +64,8 @@ Installation instructions are available in [Docs/Book/Install.md](https://github
   * [Wheels](https://pypi.org/project/rdkit/) at PyPi for all major platforms and python versions. Contributed by Christopher Kuenneth
 
 ## Projects using RDKit
-
+- [MolBook UNIPI](https://molbook.farm.unipi.it/) - MolBook UNIPI, a freely and user-friendly software to create, manage and analyze chemical databases.
+- [VenomPred](http://www.mmvsl.it/wp/venompred/) ([paper](https://www.mdpi.com/1422-0067/23/4/2105) - VenomPred: A Machine Learning Based Platform for Molecular Toxicity Predictions.
 - [ChEMBL Structure Pipeline](https://github.com/chembl/ChEMBL_Structure_Pipeline) - ChEMBL protocols used to standardise and salt strip molecules.
 - [FPSim2](https://github.com/chembl/FPSim2) - Simple package for fast molecular similarity searches.
 - [Datamol](https://datamol.io/) ([docs](https://doc.datamol.io/stable/), [repo](https://github.com/datamol-org/datamol/)) - A Python library to intuitively manipulate molecules.
